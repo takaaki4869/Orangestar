@@ -5,6 +5,8 @@
 
 int main()
 {
+    int i = 0;
+
     std::cout << "Hello World!\n";
 
     printf("これはテストです。\n");
@@ -13,10 +15,10 @@ int main()
 
     std::cout << "追加しました。" << std::endl;
 
-    for (int i = 0; i < 5; i++)
-    {
-        printf("*");
-    }
+    
+
+   
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
