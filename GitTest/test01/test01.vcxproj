@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="kkr.cpp" />
     <ClCompile Include="test01.cpp" />
   </ItemGroup>
   <ItemGroup>
