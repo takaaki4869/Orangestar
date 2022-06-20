@@ -3,11 +3,13 @@
 
 #include <iostream>
 
-int main()
+class player
 {
-    std::cout << "Hello World!\n";
-}
+private:
 
+public:
+	void playercontol(void);
+};
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
 // プログラムのデバッグ: F5 または [デバッグ] > [デバッグの開始] メニュー
 
